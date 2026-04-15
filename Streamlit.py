@@ -4,7 +4,7 @@ import plotly.express as px
 
 # Streamlit page layout and title
 st.set_page_config(page_title="🎈 Handwashing Discovery")
-st.title("Dr. Semmelweis and the Discovery of Handwashing")
+st.title("🎈 Wash Your Hands, Save Lives: Visualizing the Semmelweis Discovery")
 st.write("""
     In 1847, Dr. Ignaz Semmelweis made a breakthrough discovery: he realized that making doctors wash their hands could drastically reduce the mortality rate of women giving birth.
     This dashboard visualizes the data that led to his conclusion.
